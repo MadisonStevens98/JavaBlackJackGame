@@ -8,8 +8,7 @@ package project3;
 import java.awt.Image;
 
 /*****************************************************************
-   Class Card, the derived class each card is one object of type Card
-   May be placed in a file named Card.java
+   Class Card, each card is one object of type Card
 ******************************************************************/
 
 class Card extends Link {
